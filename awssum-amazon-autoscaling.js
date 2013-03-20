@@ -60,7 +60,7 @@ var AutoScaling = function(opts) {
 };
 
 // inherit from Amazon
-util.inherits(AutoScaling, amazon.Amazon);
+util.inherits(AutoScaling, amazon.AmazonSignatureV2);
 
 // --------------------------------------------------------------------------------------------------------------------
 // methods we need to implement from awssum.js/amazon.js
