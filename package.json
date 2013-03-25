@@ -1,6 +1,6 @@
 {
     "name" : "awssum-amazon-autoscaling",
-    "description" : "NodeJS module to talk to Amazon AutoScaling.",
+    "description" : "AwsSum plugin for Amazon AutoScaling.",
     "version" : "1.0.0",
 
     "main" : "awssum-amazon-autoscaling.js",
